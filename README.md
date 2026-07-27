@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0344-reverse-string) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Trie
 |  |
 | ------- |
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+## Backtracking
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
