@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0027-remove-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3945-digit-frequency-score](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3945-digit-frequency-score) |
 ## Binary Search
