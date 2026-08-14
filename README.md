@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Math
 |  |
