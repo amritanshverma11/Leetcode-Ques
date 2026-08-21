@@ -88,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3945-digit-frequency-score](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3945-digit-frequency-score) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
