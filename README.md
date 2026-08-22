@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
