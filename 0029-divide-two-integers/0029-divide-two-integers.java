@@ -1,41 +1,30 @@
 class Solution {
-    public int divide(int dividend, int divisor) {
+    public int divide(int did, int di)
+     {
+        long dd=did;
+        long d=di;
 
-        // Overflow case
-        if (dividend == Integer.MIN_VALUE && divisor == -1)
-            return Integer.MAX_VALUE;
+        boolean n =(dd<0)!=(d<0);
+        if(dd== Integer.MIN_VALUE&&d==-1)
+        return Integer.MAX_VALUE;
+        d=(d<0)?-d:d;
+        dd=(dd<0)?-dd:dd;
+        int dtd=(int)dd;
+         if(d==1)return n?-dtd:dtd;
+            int m=0;
+            while (dd >= d) {
+                long temp = d;
+               long multiple = 1;
 
-        long dd = dividend;
-        long d = divisor;
+                       while (dd >= temp + temp) {
+                        temp += temp;
+                            multiple += multiple;
+                              }
 
-        // Sign
-        boolean negative = (dd < 0) != (d < 0);
-
-        // Absolute values
-        dd = Math.abs(dd);
-        d = Math.abs(d);
-
-        long ans = 0;
-
-        while (dd >= d) {
-
-            long temp = d;
-            long multiple = 1;
-
-            // Divisor ko maximum possible double karo
-            while (dd >= temp + temp) {
-                temp += temp;
-                multiple += multiple;
-            }
-
-            // Us amount ko dividend se subtract karo
-            dd -= temp;
-            ans += multiple;
-        }
-
-        if (negative)
-            ans = -ans;
-
-        return (int) ans;
+              dd -= temp;
+               m += multiple;
+                }
+      
+      return n?-m:m;
     }
 }
