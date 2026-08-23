@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0409-longest-palindrome) |
+| [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0551-student-attendance-record-i) |
+| [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
+| [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3945-digit-frequency-score) |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
