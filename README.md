@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0441-arranging-coins) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 ## Stack
 |  |
@@ -198,4 +200,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
