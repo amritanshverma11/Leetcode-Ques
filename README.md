@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Hash Table
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0389-find-the-difference) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
