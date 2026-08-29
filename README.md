@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0409-longest-palindrome) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Prefix Sum
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
