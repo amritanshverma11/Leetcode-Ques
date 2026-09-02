@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0299-bulls-and-cows](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0389-find-the-difference) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
+| [0299-bulls-and-cows](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
