@@ -1,17 +1,18 @@
 class Solution {
     public int firstStableIndex(int[] n, int k) {
-         for (int i=0;i<n.length;i++)
-         {
-            int m=Integer.MIN_VALUE,mm=Integer.MAX_VALUE;
-         for (int j=0;j<n.length;j++)
-        { 
-            if (j<=i) m=Math.max(m,n[j]);
-         if(j>=i) mm=Math.min(mm,n[j]);
-         }
-         if (m-mm <=k)
-         return i;
-         
-         }
-         return -1;
+         int l=n.length;
+        int m[]=new int [l];
+        m[l-1]=n[l-1];
+        for (int i=l-2;i>=0;i--)
+            m[i]=(n[i]<m[i+1])?n[i]:m[i+1];
+            int mm=Integer.MIN_VALUE;
+        for (int i=0;i<l;i++)
+        {
+            if (n[i]>mm)
+            mm=n[i];
+            if(mm-m[i]<=k)
+            return i;
+        }
+        return -1;
     }
 }
