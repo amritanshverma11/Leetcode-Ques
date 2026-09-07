@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0441-arranging-coins) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
