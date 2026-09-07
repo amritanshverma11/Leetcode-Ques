@@ -1,7 +1,9 @@
 class Solution {
-    public boolean isPowerOfThree(int n) 
-    {
-        double d=Math.log(n)/Math.log(3);
-        return Math.abs(d - Math.round(d)) < 1e-10;
+    public boolean isPowerOfThree(int n) {
+        if(n<=0){
+            return false;
+        }while(n%3==0){
+            n/=3;
+        }return n==1;
     }
 }
