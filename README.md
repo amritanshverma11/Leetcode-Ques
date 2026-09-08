@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0091-decode-ways) |
 | [0264-ugly-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0264-ugly-number-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Math
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0441-arranging-coins) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0357-count-numbers-with-unique-digits) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
