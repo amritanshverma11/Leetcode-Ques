@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0137-single-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0204-count-primes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0091-decode-ways) |
@@ -234,12 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
