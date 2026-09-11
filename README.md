@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3903-smallest-stable-index-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
