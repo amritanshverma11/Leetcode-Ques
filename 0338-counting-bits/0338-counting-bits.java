@@ -6,8 +6,7 @@ class Solution {
             int o=0,x=i;
 
          while (x!=0){
-         if ((x&1)==1)
-            o++;
+           o+=x&1;
             x=x>>1;}
             a[i]=o;
        } 
