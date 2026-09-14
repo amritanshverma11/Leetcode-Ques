@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0441-arranging-coins) |
+| [0836-rectangle-overlap](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0836-rectangle-overlap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
