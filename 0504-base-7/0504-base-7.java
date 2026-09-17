@@ -1,0 +1,16 @@
+class Solution {
+    public String convertToBase7(int n) {
+        if (n==0)return "0";
+       int i=(n<0)?-1:1;
+       n=(i==1)?n:(n*-1);
+        String s="";
+        while (n!=0)
+        {
+            int r=n%7;
+            s=((char)(48+r))+s;
+            n/=7;
+        }
+    
+    return (i==1)?s:("-"+s);
+    }
+}
