@@ -6,8 +6,7 @@ class Solution {
         String s="";
         while (n!=0)
         {
-            int r=n%7;
-            s=((char)(48+r))+s;
+            s=Integer.toString(n%7)+s;
             n/=7;
         }
     
