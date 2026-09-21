@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0223-rectangle-area) |
@@ -199,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0357-count-numbers-with-unique-digits) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0191-number-of-1-bits) |
