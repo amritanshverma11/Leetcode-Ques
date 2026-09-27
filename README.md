@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
