@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2119-a-number-after-a-double-reversal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0693-binary-number-with-alternating-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1486-xor-operation-in-an-array) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
