@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
+| [1207-unique-number-of-occurrences](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1207-unique-number-of-occurrences) |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1748-sum-of-unique-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
+| [1207-unique-number-of-occurrences](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
