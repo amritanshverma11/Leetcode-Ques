@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0091-decode-ways) |
 | [0264-ugly-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0397-integer-replacement) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0412-fizz-buzz) |
