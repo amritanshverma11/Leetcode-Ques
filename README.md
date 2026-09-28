@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0137-single-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0299-bulls-and-cows) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0299-bulls-and-cows) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0343-integer-break) |
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0509-fibonacci-number) |
 ## Game Theory
@@ -373,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
