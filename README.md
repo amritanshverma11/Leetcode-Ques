@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -364,4 +366,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
