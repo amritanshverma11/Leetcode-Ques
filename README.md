@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0693-binary-number-with-alternating-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1486-xor-operation-in-an-array) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
