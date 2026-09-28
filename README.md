@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0859-buddy-strings) |
 | [1207-unique-number-of-occurrences](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1207-unique-number-of-occurrences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0859-buddy-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
