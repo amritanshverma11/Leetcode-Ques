@@ -2,7 +2,7 @@ class Solution {
     public int findPoisonedDuration(int[] t, int d) {
         int f=d;
         for(int i=0;i<t.length-1;i++)
-            f+=((t[i+1]-t[i])<d)?(t[i+1]-t[i]):d;
+            f+=Math.min(t[i+1]-t[i],d);
             return f;
     }
 }
