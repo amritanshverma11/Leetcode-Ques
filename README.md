@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0495-teemo-attacking) |
 | [3498-reverse-degree-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
