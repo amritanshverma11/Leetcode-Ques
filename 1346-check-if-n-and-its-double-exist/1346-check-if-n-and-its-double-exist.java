@@ -1,14 +1,15 @@
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        HashSet<Integer>h = new HashSet<>();
-        for(int i:arr)
-        if(h.contains(i*2))
-        return true;
-        else h.add(i);
 
-        for (int i:h)
-         if(h.contains(i*2)&&i!=0)
-        return true;
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr.length; j++) {
+
+                if (i != j && arr[i] == 2 * arr[j]) {
+                    return true;
+                }
+            }
+        }
+
         return false;
     }
 }
