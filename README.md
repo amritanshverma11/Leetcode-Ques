@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0091-decode-ways) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0357-count-numbers-with-unique-digits) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
