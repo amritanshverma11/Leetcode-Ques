@@ -16,10 +16,8 @@ class Solution {
                 int count = 1;
                 int x = n;
 
-                while (set.contains(++x)) {
-                   
+                while (set.contains(++x))
                     count++;
-                }
 
                 max = Math.max(max, count);
             }
