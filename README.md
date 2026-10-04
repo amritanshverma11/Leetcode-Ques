@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
