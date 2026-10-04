@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0859-buddy-strings) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Math
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
