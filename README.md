@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0299-bulls-and-cows) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0387-first-unique-character-in-a-string) |
@@ -440,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
