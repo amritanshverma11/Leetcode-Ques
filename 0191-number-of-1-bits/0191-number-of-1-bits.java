@@ -1,14 +1,11 @@
 class Solution {
     public int hammingWeight(int n) {
-        int a=1,f=0;
-        for(int i=1;i<32;i++)
-        if((n&a)!=0)
-        {
-            f++;
-           a= a<<1;
-        }
-        else
-         a=a<<1;
+        int f=0;
+        while(n!=0){
+        if((n&1)!=0)
+         f++;
+         n=n>>1;
+         }
         return f;
 
     }
