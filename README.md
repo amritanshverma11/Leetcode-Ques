@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0191-number-of-1-bits) |
