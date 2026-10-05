@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0139-word-break) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0137-single-number-ii) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0495-teemo-attacking) |
