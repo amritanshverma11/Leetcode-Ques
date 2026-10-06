@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0859-buddy-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1544-make-the-string-great) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
