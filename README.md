@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0383-ransom-note) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0357-count-numbers-with-unique-digits) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
