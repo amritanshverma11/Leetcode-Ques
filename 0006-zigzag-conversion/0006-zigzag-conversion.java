@@ -5,22 +5,15 @@ class Solution {
         StringBuilder b= new StringBuilder();
         for(int i=0;i<n;i++)
         a[i]=new StringBuilder();
-         
-         int i=0;
-         outer:
-         while(i<s.length())
-         {
-            for(int x=0;x<n;x++)
-            {
-                a[x].append(s.charAt(i++));
-                if(i==s.length())break outer;
+         boolean q=false;
+         int x=0;
+         for(int i=0;i<s.length();i++){
+             a[x].append(s.charAt(i));
+            if(x==0||x==n-1){
+                q=x==0?true:false;
             }
-            for(int x=n-2;x>0;x--)
-            {
-                a[x].append(s.charAt(i++));
-                if(i==s.length())break outer;
-            }
-         }
+            x+=q==true?1:-1;
+        }
          for(int j=0;j<n;j++)
         b.append(a[j]);
         return b.toString();
