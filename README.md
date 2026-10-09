@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3904-smallest-stable-index-ii) |
