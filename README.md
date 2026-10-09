@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1370-increasing-decreasing-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1544-make-the-string-great) |
 | [1592-rearrange-spaces-between-words](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brute-Force Search
 |  |
