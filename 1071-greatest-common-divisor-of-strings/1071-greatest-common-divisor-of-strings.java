@@ -1,29 +1,15 @@
-
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
-        StringBuilder s1, s2;
-
-        if (str1.length() > str2.length()) {
-            s1 = new StringBuilder(str1);
-            s2 = new StringBuilder(str2);
-        } else {
-            s1 = new StringBuilder(str2);
-            s2 = new StringBuilder(str1);
+        if("".equals(str1)) return str2;
+        if(str1.length()<str2.length()){
+            return gcdOfStrings(str2,str1);
         }
-
-        StringBuilder s = new StringBuilder(s2);
-
-        while (s.length() > 0) {
-            String target = s.toString();
-
-            if (s1.toString().replace(target, "").isEmpty()
-                    && s2.toString().replace(target, "").isEmpty()) {
-                return target;
+        int n = str2.length();
+        for(int i=0; i<n; i++){
+            if(str2.charAt(i)!=str1.charAt(i)){
+                return "";
             }
-
-            s.deleteCharAt(s.length() - 1);
         }
-
-        return "";
+        return gcdOfStrings(str1.substring(n),str2);
     }
 }
