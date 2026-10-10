@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0836-rectangle-overlap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1154-day-of-the-year) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -495,4 +497,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0301-remove-invalid-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
