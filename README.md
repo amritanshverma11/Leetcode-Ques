@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0724-find-pivot-index) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Queue
