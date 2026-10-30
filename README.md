@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0334-increasing-triplet-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3903-smallest-stable-index-i) |
