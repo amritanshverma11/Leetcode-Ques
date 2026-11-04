@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0643-maximum-average-subarray-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0506-relative-ranks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Number Theory
 |  |
