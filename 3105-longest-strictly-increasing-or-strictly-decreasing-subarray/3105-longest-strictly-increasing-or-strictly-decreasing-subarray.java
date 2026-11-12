@@ -8,11 +8,11 @@ class Solution {
         for(int i=0;i<n.length;i++)
         {
             if(a[i]==1)xx++;
-            else {x=(x>xx)?x:xx;xx=0;}
+            else {x=Math.max(x,xx);xx=0;}
             if(b[i]==1)yy++;
-            else {y=(y>yy)?y:yy;yy=0;}
+            else {y=Math.max(y,yy);yy=0;}
         }
-        return ((x>y)?x:y)+1;
+        return Math.max(x,y)+1;
 
     }
 }
