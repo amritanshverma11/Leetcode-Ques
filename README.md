@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3498-reverse-degree-of-a-string) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
