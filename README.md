@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1768-merge-strings-alternately) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Math
 |  |
