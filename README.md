@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-increasing-decreasing-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1370-increasing-decreasing-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1768-merge-strings-alternately) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
