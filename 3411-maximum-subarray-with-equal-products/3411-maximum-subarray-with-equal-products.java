@@ -1,44 +1,23 @@
-
-import java.math.BigInteger;
-
 class Solution {
+    private static final int[] MASK = {0, 0, 1, 2, 1, 4, 3, 8, 1, 2, 5};
+    // index:                        0  1  2  3  4  5  6  7  8  9  10
+
     public int maxLength(int[] nums) {
-        int n = nums.length;
-        int ans = 1;
+        int left = 0, used = 0, best = 0;
 
-        for (int i = 0; i < n; i++) {
-            BigInteger prod = BigInteger.ONE;
-            BigInteger lcm = BigInteger.ONE;
-            int gcd = 0;
+        for (int right = 0; right < nums.length; right++) {
+            int m = MASK[nums[right]];
 
-            for (int j = i; j < n; j++) {
-                BigInteger x = BigInteger.valueOf(nums[j]);
-
-                prod = prod.multiply(x);
-
-                gcd = gcd(gcd, nums[j]);
-
-                lcm = lcm.divide(lcm.gcd(x)).multiply(x);
-
-                BigInteger result = lcm.multiply(
-                    BigInteger.valueOf(gcd)
-                );
-
-                if (prod.equals(result)) {
-                    ans = Math.max(ans, j - i + 1);
-                }
+            while ((used & m) != 0) {
+                used ^= MASK[nums[left]];
+                left++;
             }
+
+            used |= m;
+            best = Math.max(best, right - left + 1);
         }
 
-        return ans;
-    }
-
-    private int gcd(int a, int b) {
-        while (b != 0) {
-            int t = a % b;
-            a = b;
-            b = t;
-        }
-        return a;
+        // any two elements are always product equivalent
+        return Math.max(best, 2);
     }
 }
