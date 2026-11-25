@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1684-count-the-number-of-consistent-strings) |
