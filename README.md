@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2119-a-number-after-a-double-reversal) |
+| [3360-stone-removal-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
