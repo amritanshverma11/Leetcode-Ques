@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/amritanshverma11/Leetcode-Ques/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Math
 |  |
